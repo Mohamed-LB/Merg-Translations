@@ -334,7 +334,7 @@
     <string name="dialog_disconnected">Desconectado</string>
     <string name="dialog_disconnected_message">Se ha perdido la conexión con el servidor.</string>
     <string name="room_crash">Sala Crasheada: %s</string>
-    <string name="dialog_yes">SI</string>
+    <string name="dialog_yes">SÍ</string>
     <string name="dialog_no">NO</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">COPIADO</string>
