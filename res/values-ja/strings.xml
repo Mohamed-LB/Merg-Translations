@@ -210,7 +210,7 @@
     <string name="unlock_name_fonts_success">ネームフォントアンロック完了！</string>
     <string name="unlock_name_fonts_already_unlocked">ネームフォントは既にアンロックされました</string>
     <string name="name_font_save_success">フォント保存完了！</string>
-    <string name="name_fonts_not_unlocked">ネームフォントはアンロックされません</string>
+    <string name="name_fonts_not_unlocked">ネームフォントはアンロックされませんでした</string>
     <string name="profile_name_font">ネームフォント</string>
     <string name="name_change_success">名前は『%s』に変更されました</string>
     <string name="name_change_invalid_length">名前が長すぎます</string>
