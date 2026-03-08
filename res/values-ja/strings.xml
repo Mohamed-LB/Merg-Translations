@@ -47,7 +47,7 @@
     <string name="direction_arrow">方向矢印を表示化</string>
     <string name="border_above_entities">エンティティ上のボーダー</string>
     <string name="map_border_visible">マップのボーダーを表示化</string>
-    <string name="star_background_enabled">背景でスターを有効にする</string>
+    <string name="star_background_enabled">スターを背景で有効にする</string>
     <string name="star_color_white">ホワイトスター</string>
     <string name="star_color_black">ブラックスター</string>
     <string name="name_position">プレイヤー名の位置</string>
