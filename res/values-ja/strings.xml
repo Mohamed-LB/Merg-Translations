@@ -48,8 +48,8 @@
     <string name="border_above_entities">エンティティ上のボーダー</string>
     <string name="map_border_visible">マップのボーダーを表示化</string>
     <string name="star_background_enabled">背景でスターを有効にする</string>
-    <string name="star_color_white">ホワイト</string>
-    <string name="star_color_black">ブラック</string>
+    <string name="star_color_white">ホワイトスター</string>
+    <string name="star_color_black">ブラックスター</string>
     <string name="name_position">プレイヤー名の位置</string>
     <string name="name_position_above">上部</string>
     <string name="name_position_center">中部</string>
