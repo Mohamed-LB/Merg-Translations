@@ -115,7 +115,7 @@
 
     <!-- Shop -->
     <string name="shop">ショップ</string>
-    <string name="free_voidstones">無料ボイドストーン</string>
+    <string name="free_voidstones">無料ボイドストーン！</string>
     <string name="free_voidstones_subtitle">スクエアを選択し、広告を視聴してボイドストーンを獲得しましょう！</string>
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="pick">選択</string>
