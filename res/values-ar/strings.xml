@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Merg</string>
+    <string name="app_name" translatable="false">ميرج</string>
 
     <!-- Main menu !-->
     <string name="singleplayer">اللعب الفردي</string>
@@ -19,14 +19,14 @@
 
     <!-- Options menu !-->
     <string name="language">اللغة</string>
-    <string name="language_english">English</string>
-    <string name="language_german">Deutsch</string>
-    <string name="language_portuguese">Português</string>
-    <string name="language_spanish">Español</string>
-    <string name="language_japanese">日本語</string>
-    <string name="language_italian">Italiano</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="language_german">الألمانية</string>
+    <string name="language_portuguese">البرتغالية</string>
+    <string name="language_spanish">الإسبانية</string>
+    <string name="language_japanese">اليابانية</string>
+    <string name="language_italian">الإيطالية</string>
     <string name="language_arabic">العربية</string>
-    <string name="language_turkish">Türkçe</string>
+    <string name="language_turkish">التركية</string>
     <string name="background">الخلفية</string>
     <string name="background_black">اسود</string>
     <string name="background_white">ابيض</string>
