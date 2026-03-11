@@ -97,7 +97,7 @@
     <string name="friends">フレンド</string>
     <string name="send_friend_request">フレンドリクエスト</string>
     <string name="friend_request_accepted">フレンドリストへ追加完了！</string>
-    <string name="send_friend_request_by_id_or_name">IDまたは名前を入力してリクエストを送信します</string>
+    <string name="send_friend_request_by_id_or_name">IDまたは名前を入力してリクエストを送信する</string>
     <string name="cancel_friend_request">リクエストを取り消す</string>
     <string name="remove_friend">フレンドリストから解除</string>
     <string name="friend_request_sent">リクエスト送信済み</string>
@@ -118,7 +118,7 @@
     <string name="free_voidstones">無料ボイドストーン！</string>
     <string name="free_voidstones_subtitle">スクエアを選択し、広告を視聴してボイドストーンを獲得しましょう！</string>
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
-    <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
+    <string name="free_voidstones_status">残り%1$d個・%2$s後にリセット</string>
     <string name="pick">選択</string>
     <string name="purchase_id">購入ID: %d</string>
     <string name="voidstone_history">ボイドストーンの歴史</string>
@@ -232,8 +232,8 @@
     <string name="profile_color_save_failed">プロフィールカラーは保存できませんでした</string>
 
     <!-- Profile Tags -->
-    <string name="developer_tag">Developer</string>
-    <string name="code_contribution_tag">Code Contribution</string>
+    <string name="developer_tag">開発者</string>
+    <string name="code_contribution_tag">コードヘルパー</string>
     <string name="admin">アドミン</string>
     <string name="mod">モデ</string>
     <string name="verified">確認済</string>
@@ -246,7 +246,7 @@
 
     <!-- Search Profile -->
     <string name="search_account">アカウントを検索</string>
-    <string name="search_account_by_id_or_name">IDまたは名前で検索</string>
+    <string name="search_account_by_id_or_name">IDまたは名前を検索する</string>
     <string name="no_account_found">このアカウントは見つかりませんでした</string>
 
     <!-- Statistics !-->
