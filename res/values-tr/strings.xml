@@ -2,66 +2,66 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Singleplayer</string>
-    <string name="lan_multiplayer">LAN Multiplayer</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
-    <string name="options">Options</string>
+    <string name="singleplayer">tek oyunculu</string>
+    <string name="lan_multiplayer">LAN çok oyunculu</string>
+    <string name="online_multiplayer">çevrimiçi çok oyunculu</string>
+    <string name="options">seçenekler</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copy Email</string>
-    <string name="email_support">Support Mail:</string>
-    <string name="developer">Developer:</string>
-    <string name="code_contribution">Code Contributions:</string>
+    <string name="email_copy">e-posta kopyala</string>
+    <string name="email_support">destek e-postası:</string>
+    <string name="developer">geliştirici:</string>
+    <string name="code_contribution">kod katkısı:</string>
     <string name="skins">Skins:</string>
-    <string name="translations">Translations:</string>
+    <string name="translations">çeviriler:</string>
 
     <!-- Options menu !-->
-    <string name="language">Language</string>
+    <string name="language">dil</string>
     <string name="language_english">English (İngilizce)</string>
     <string name="language_german">Deutsch (Almanca)</string>
     <string name="language_portuguese">Português (Portekizce)</string>
     <string name="language_spanish">Español (İspanyolca)</string>
     <string name="language_japanese">日本語 (Japonca)</string>
     <string name="language_italian">Italiano (İtalyanca)</string>
-    <string name="language_arabic">عربي</string>
+    <string name="language_arabic">عربي< (Arapça)/string>
     <string name="language_turkish">Türkçe</string>
-    <string name="background">Background</string>
-    <string name="background_black">Black</string>
-    <string name="background_white">White</string>
-    <string name="controls">Controls</string>
+    <string name="background">arka plan</string>
+    <string name="background_black">siyah</string>
+    <string name="background_white">beyaz</string>
+    <string name="controls">kontroller</string>
     <string name="control_joystick">Joystick</string>
-    <string name="control_relative">Relative</string>
-    <string name="control_touch">Touch</string>
-    <string name="button_layout">Button Layout</string>
-    <string name="customize">Customize</string>
-    <string name="opacity">Opacity</string>
-    <string name="leaderboard_size">Leaderboard Size</string>
-    <string name="show_grid">Show Grid</string>
-    <string name="custom_background_image">Custom Background Image</string>
-    <string name="custom_background_select">Select Image</string>
-    <string name="custom_background_opacity">Background Opacity</string>
-    <string name="show_performance_metrics">Show Performance Metrics</string>
-    <string name="skin_outlines">Skin Outlines</string>
-    <string name="direction_arrow">Direction Arrow</string>
-    <string name="border_above_entities">Border Above Entities</string>
-    <string name="map_border_visible">Show Map Border</string>
-    <string name="star_background_enabled">Stars</string>
-    <string name="star_color_white">White</string>
-    <string name="star_color_black">Black</string>
-    <string name="name_position">Name Position</string>
-    <string name="name_position_above">Above</string>
-    <string name="name_position_center">Center</string>
-    <string name="name_position_below">Below</string>
-    <string name="name_scale">Name Scale</string>
-    <string name="timer_format">Timer Format</string>
+    <string name="control_relative">göreceli kontrol</string>
+    <string name="control_touch">dokunmatik</string>
+    <string name="button_layout">Buton düzeni</string>
+    <string name="customize">özelleştir</string>
+    <string name="opacity">opaklık</string>
+    <string name="leaderboard_size">liderlik tablosu boyutu</string>
+    <string name="show_grid">ızgarayı göster</string>
+    <string name="custom_background_image">özel arka plan boyutu</string>
+    <string name="custom_background_select">arka plan seç</string>
+    <string name="custom_background_opacity">arka plan saydalığı</string>
+    <string name="show_performance_metrics">performans ölçülerini göster</string>
+    <string name="skin_outlines">cilt hatları</string>
+    <string name="direction_arrow">yön oku</string>
+    <string name="border_above_entities">varlıkların üstündeki çerçeve</string>
+    <string name="map_border_visible">>Harita sınırını göster</string>
+    <string name="star_background_enabled">yıldızlı arka planı etkinleştir</string>
+    <string name="star_color_white">beyaz</string>
+    <string name="star_color_black">siyah</string>
+    <string name="name_position">isim pozisyonu</string>
+    <string name="name_position_above">üstünde</string>
+    <string name="name_position_center">konumunu ortala</string>
+    <string name="name_position_below">altında</string>
+    <string name="name_scale">isim ölçeği</string>
+    <string name="timer_format">zamanlayıcı biçimi</string>
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
-    <string name="timer_format_ticks">Ticks</string>
-    <string name="auto_spectate_killer">Auto Spectate Killer</string>
-    <string name="cycle_progressbar">Cycle XP Progress Bar Text</string>
-    <string name="jitter_buffer">Jitter Buffer</string>
+    <string name="timer_format_ticks">tick zamanlayıcı</string>
+    <string name="auto_spectate_killer">katili otomatik izle</string>
+    <string name="cycle_progressbar">xp ilerleme çubuğunu döngüle</string>
+    <string name="jitter_buffer">ağ gecikme sorunu</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Game Mode</string>
