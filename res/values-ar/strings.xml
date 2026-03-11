@@ -19,14 +19,14 @@
 
     <!-- Options menu !-->
     <string name="language">اللغة</string>
-    <string name="language_english">English</string>
-    <string name="language_german">Deutsch</string>
-    <string name="language_portuguese">Português</string>
-    <string name="language_spanish">Español</string>
-    <string name="language_japanese">日本語</string>
-    <string name="language_italian">Italiano</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="language_german">الألمانية</string>
+    <string name="language_portuguese">البرتغالية</string>
+    <string name="language_spanish">الإسبانية</string>
+    <string name="language_japanese">اليابانية</string>
+    <string name="language_italian">الإيطالية</string>
     <string name="language_arabic">العربية</string>
-    <string name="language_turkish">Türkçe</string>
+    <string name="language_turkish">التركية</string>
     <string name="background">الخلفية</string>
     <string name="background_black">اسود</string>
     <string name="background_white">ابيض</string>
@@ -38,15 +38,15 @@
     <string name="customize">تعديل</string>
     <string name="opacity">الشفافية</string>
     <string name="leaderboard_size">حجم لوحة الصدارة</string>
-    <string name="show_grid">اظهار الشبكة</string>
+    <string name="show_grid">إظهار الشبكة</string>
     <string name="custom_background_image">خلفية مخصصة</string>
-    <string name="custom_background_select">اختر صورة</string>
+    <string name="custom_background_select">إختر صورة</string>
     <string name="custom_background_opacity">شفافية الخلفية</string>
     <string name="show_performance_metrics">عرض مقاييس الاداء</string>
     <string name="skin_outlines">حواف الدائرة</string>
     <string name="direction_arrow">شكل السهم</string>
     <string name="border_above_entities">حافة الخريطة</string>
-    <string name="map_border_visible">اظهار حافة الخريطة</string>
+    <string name="map_border_visible">إظهار حافة الخريطة</string>
     <string name="star_background_enabled">النجوم</string>
     <string name="star_color_white">ابيض</string>
     <string name="star_color_black">اسود</string>
@@ -103,9 +103,9 @@
     <string name="friend_request_sent">تم ارسال الطلب</string>
     <string name="friend_requests_received">طلبات الصداقة</string>
     <string name="friend_requests_sent">الطلبات المرسلة</string>
-    <string name="no_friends">ليس لديك اصدقاء بعد…</string>
+    <string name="no_friends">ليس لديك اصدقاء</string>
     <string name="remove_friend_title">ازالة صديق</string>
-    <string name="remove_friend_message">هلا انت متاكد من رغبتك في ازالة "%1$s" (المعرف: %2$d) كصديق؟</string>
+    <string name="remove_friend_message">هل انت متاكد من رغبتك في ازالة "%1$s" (المعرف: %2$d) كصديق؟</string>
     <string name="cancel_request_title">الغاء الطلب</string>
     <string name="cancel_request_message">هل انت متاكد من رغبتك في الغاء طلب الصداقة إلى "%1$s" (المعرف: %2$d)؟</string>
     <string name="friend_request_error_self">لا يمكنك إرسال طلب صداقة الى نفسك</string>
