@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">اللعب الفردي</string>
+    <string name="singleplayer">اللعِب الفردي</string>
     <string name="lan_multiplayer">البحث عن غرفة</string>
     <string name="online_multiplayer">اللعِب اونلاين</string>
     <string name="options">الإعدادات</string>
