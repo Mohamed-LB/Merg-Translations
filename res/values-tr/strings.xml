@@ -2,23 +2,23 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">tek oyunculu</string>
+    <string name="singleplayer">Tek oyunculu</string>
     <string name="lan_multiplayer">LAN çok oyunculu</string>
-    <string name="online_multiplayer">çevrimiçi çok oyunculu</string>
-    <string name="options">seçenekler</string>
+    <string name="online_multiplayer">Çevrimiçi çok oyunculu</string>
+    <string name="options">Seçenekler</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">e-posta kopyala</string>
-    <string name="email_support">destek e-postası:</string>
-    <string name="developer">geliştirici:</string>
-    <string name="code_contribution">kod katkısı:</string>
-    <string name="skins">Skins:</string>
-    <string name="translations">çeviriler:</string>
+    <string name="email_copy">E-posta kopyala</string>
+    <string name="email_support">Destek e-postası:</string>
+    <string name="developer">Geliştirici:</string>
+    <string name="code_contribution">Kod katkısı:</string>
+    <string name="skins">Ciltler:</string>
+    <string name="translations">Çeviriler:</string>
 
     <!-- Options menu !-->
-    <string name="language">dil</string>
+    <string name="language">Dil</string>
     <string name="language_english">English (İngilizce)</string>
     <string name="language_german">Deutsch (Almanca)</string>
     <string name="language_portuguese">Português (Portekizce)</string>
@@ -27,41 +27,41 @@
     <string name="language_italian">Italiano (İtalyanca)</string>
     <string name="language_arabic">عربي (Arapça)</string>
     <string name="language_turkish">Türkçe</string>
-    <string name="background">arka plan</string>
-    <string name="background_black">siyah</string>
-    <string name="background_white">beyaz</string>
-    <string name="controls">kontroller</string>
+    <string name="background">Arka Plan</string>
+    <string name="background_black">Siyah</string>
+    <string name="background_white">Beyaz</string>
+    <string name="controls">Kontroller</string>
     <string name="control_joystick">Joystick</string>
-    <string name="control_relative">göreceli kontrol</string>
-    <string name="control_touch">dokunmatik</string>
-    <string name="button_layout">Buton düzeni</string>
-    <string name="customize">özelleştir</string>
-    <string name="opacity">opaklık</string>
-    <string name="leaderboard_size">liderlik tablosu boyutu</string>
-    <string name="show_grid">ızgarayı göster</string>
-    <string name="custom_background_image">özel arka plan boyutu</string>
-    <string name="custom_background_select">arka plan seç</string>
-    <string name="custom_background_opacity">arka plan saydalığı</string>
-    <string name="show_performance_metrics">performans ölçülerini göster</string>
-    <string name="skin_outlines">cilt hatları</string>
-    <string name="direction_arrow">yön oku</string>
-    <string name="border_above_entities">varlıkların üstündeki çerçeve</string>
-    <string name="map_border_visible">>Harita sınırını göster</string>
-    <string name="star_background_enabled">yıldızlı arka planı etkinleştir</string>
-    <string name="star_color_white">beyaz</string>
-    <string name="star_color_black">siyah</string>
-    <string name="name_position">isim pozisyonu</string>
-    <string name="name_position_above">üstünde</string>
-    <string name="name_position_center">konumunu ortala</string>
-    <string name="name_position_below">altında</string>
-    <string name="name_scale">isim ölçeği</string>
-    <string name="timer_format">zamanlayıcı biçimi</string>
+    <string name="control_relative">Göreceli kontrol</string>
+    <string name="control_touch">Dokunmatik</string>
+    <string name="button_layout">Buton Düzeni</string>
+    <string name="customize">Özelleştir</string>
+    <string name="opacity">Opaklık</string>
+    <string name="leaderboard_size">Liderlik Tablosu Boyutu</string>
+    <string name="show_grid">Izgarayı Göster</string>
+    <string name="custom_background_image">Özel Arka Plan Boyutu</string>
+    <string name="custom_background_select">Arka Plan Seç</string>
+    <string name="custom_background_opacity">Arka Plan Saydalığı</string>
+    <string name="show_performance_metrics">Performans Ölçülerini Göster</string>
+    <string name="skin_outlines">Cilt Hatları</string>
+    <string name="direction_arrow">Yön Oku</string>
+    <string name="border_above_entities">Varlıkların üstündeki çerçeve</string>
+    <string name="map_border_visible">Harita Sınırını Göster</string>
+    <string name="star_background_enabled">Yıldızlı Arka Planı Etkinleştir</string>
+    <string name="star_color_white">Beyaz</string>
+    <string name="star_color_black">Siyah</string>
+    <string name="name_position">İsim Pozisyonu</string>
+    <string name="name_position_above">Üstünde</string>
+    <string name="name_position_center">Konumunu Ortala</string>
+    <string name="name_position_below">Altında</string>
+    <string name="name_scale">İsim Ölçeği</string>
+    <string name="timer_format">Zamanlayıcı Biçimi</string>
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
-    <string name="timer_format_ticks">tick zamanlayıcı</string>
-    <string name="auto_spectate_killer">katili otomatik izle</string>
-    <string name="cycle_progressbar">xp ilerleme çubuğunu döngüle</string>
-    <string name="jitter_buffer">ağ gecikme sorunu</string>
+    <string name="timer_format_ticks">Tick Zamanlayıcı</string>
+    <string name="auto_spectate_killer">Katili Otomatik İzle</string>
+    <string name="cycle_progressbar">XP İlerleme Çubuğunu Döngüle</string>
+    <string name="jitter_buffer">Ağ Gecikme Sorunu</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Oyun Modu</string>
@@ -93,8 +93,8 @@
 
     <!-- Multiplayer -->
     <string name="private_room">Private Room</string>
-    <string name="clan">Clan</string>
-    <string name="friends">Friends</string>
+    <string name="clan">Klan</string>
+    <string name="friends">Arkadaşlar</string>
     <string name="send_friend_request">Send Friend Request</string>
     <string name="friend_request_accepted">You are now friends!</string>
     <string name="send_friend_request_by_id_or_name">Send a Friend Request by ID or Name</string>
@@ -125,7 +125,7 @@
     <string name="purchase_history">Purchase History</string>
     <string name="no_transactions_yet">No transactions yet</string>
     <string name="admin_reward">Admin reward</string>
-    <string name="in_app_purchase">in-app purchase</string>
+    <string name="in_app_purchase">In-app purchase</string>
     <string name="voidstone_gift_received">Voidstone gift received</string>
     <string name="voidstone_gift_send">Voidstone gift send</string>
     <string name="skin_bought">Skin bought</string>
