@@ -25,14 +25,14 @@
     <string name="language_spanish">Español (İspanyolca)</string>
     <string name="language_japanese">日本語 (Japonca)</string>
     <string name="language_italian">Italiano (İtalyanca)</string>
-    <string name="language_arabic">عربي (Arapça)</string>
+    <string name="language_arabic">العربية (Arapça)</string>
     <string name="language_turkish">Türkçe</string>
     <string name="background">Arka Plan</string>
     <string name="background_black">Siyah</string>
     <string name="background_white">Beyaz</string>
     <string name="controls">Kontroller</string>
     <string name="control_joystick">Joystick</string>
-    <string name="control_relative">Göreceli kontrol</string>
+    <string name="control_relative">Göreceli Kontrol</string>
     <string name="control_touch">Dokunmatik</string>
     <string name="button_layout">Buton Düzeni</string>
     <string name="customize">Özelleştir</string>
