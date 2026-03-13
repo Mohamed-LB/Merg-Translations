@@ -10,10 +10,10 @@
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">E-posta kopyala</string>
-    <string name="email_support">Destek e-postası:</string>
+    <string name="email_copy">E-posta Kopyala</string>
+    <string name="email_support">Destek E-postası:</string>
     <string name="developer">Geliştirici:</string>
-    <string name="code_contribution">Kod katkısı:</string>
+    <string name="code_contribution">Kod Katkısı:</string>
     <string name="skins">Ciltler:</string>
     <string name="translations">Çeviriler:</string>
 
